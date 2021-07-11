@@ -1,8 +1,8 @@
 # DKBinaries
 Precompiled DigitalKnob apps and plugins
 
-[DKBuilder for Windows x32](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_windows32.exe) <br>
-[DKBuilder for Windows x64](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_windows64.exe) <br>
+[DKBuilder for Windows x32](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_win32.exe) <br>
+[DKBuilder for Windows x64](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_win64.exe) <br>
 [DKBuilder for Osx x32](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_osx32.zip) <br>
 [DKBuilder for Osx x64](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_osx64.zip) <br>
 [DKBuilder for Linux x32](https://github.com/aquawicket/DKBinaries/raw/master/DKBuilder_linux32) <br>
